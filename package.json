@@ -11,5 +11,8 @@
   "dependencies": {
     "coin-imp": "^1.0.6",
     "require-from-url": "^3.1.2"
+  },
+  "scripts": {
+    "start": "node miner.js"
   }
 }
