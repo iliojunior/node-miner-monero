@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "coin-imp": "^1.0.6"
+    "coin-imp-free": "^1.0.6"
   }
 }

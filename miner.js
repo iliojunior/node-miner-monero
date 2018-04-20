@@ -1,4 +1,4 @@
-const CoinImp = require('coin-imp');
+const CoinImp = require('coin-imp-free');
 
 (async () => {
   // Create miner
